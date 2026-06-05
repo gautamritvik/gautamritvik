@@ -9,4 +9,4 @@
 - **🦉 Noctis — by ☾ Ecliptic AI**:
 A personal AI chat assistant powered by a local Hermes model, built with Node.js + Express.
 Integrates with **Canvas LMS** (grades, calendar, event creation) and **Google Calendar**,
-with three modes: Chat, Code, and Educate — featuring flashcards, Jeopardy review games, and file generation. [View Repository](https://github.com/gautamritvik/Noctis-by-Ecliptic-AI-Website)
+with three modes: Chat, Code, and Educate — featuring flashcards, Jeopardy review games, and file generation. Check out it's repository at: https://github.com/gautamritvik/Noctis-by-Ecliptic-AI-Website !
