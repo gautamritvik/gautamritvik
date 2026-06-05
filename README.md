@@ -6,7 +6,7 @@
 - Here's the link to the source code that belongs to a list of MFOSS in Borealis' hands if you want to check it out! https://github.com/gautamritvik/Borealis-Software-Source-Code
 - **BIG CURL UPDATE**: Curl is now officially in production! Curl is a lightweight (for now hehe 😈) programming language with medium complex syntax that can do basic functions, but is intended to have built-in AI functions and code blocks with other programming languages (languages targeted to be supported on Curl: Python, JavaScript, Java, C, C++, and (maybe) Node.js). It was made with Python 3.13 on a Windows Surface Pro 7 (tablet-laptop). Go to https://www.github.com/gautamritvik/Curl-Programming. Please support Curl, thanks!
 - **HUGE SUPENUX UPDATE**: SupeNux is now officially available!!! It is a Raspberry Pi distro, and it works on the SD card port on the bottom of a Raspberry Pi. It only works on the terminal as of right now, but I'm trying to make some GUI for the operating system so it can display it's first screen pointer! Go to https://github.com/gautamritvik/SupeNux/blob/main/SupeNux-Raspberry-Pi.md to get the .img file and it also has further instructions to put it on a physical SD card. Please support SupeNux, thanks!
-- **🦉 Noctis — by ☾ Ecliptic AI**:
+- **🦉 Noctis — by ☾ Ecliptic AI (CURRENTLY IN PRODUCTION — REPOSITORY WILL BE POSTED TO PUBLIC ONCE IT IS READY FOR THE PUBLIC)**:
 A personal AI chat assistant powered by a local Hermes model, built with Node.js + Express.
 Integrates with **Canvas LMS** (grades, calendar, event creation) and **Google Calendar**,
-with three modes: Chat, Code, and Educate — featuring flashcards, Jeopardy review games, and file generation. Check out it's repository at: https://github.com/gautamritvik/Noctis-by-Ecliptic-AI-Website !
+with three modes: Chat, Code, and Educate — featuring flashcards, Jeopardy review games, and file generation. I will post it's repository soon!
