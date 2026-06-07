@@ -1,12 +1,18 @@
 (Sorry! I may be inactive for quite a while- school's been the main reason. Just know that I haven't mysteriously been taken away by aliens or I have lost interest in coding!)
 
-- ✌🏼 Hey there! My name is Ritvik Gautam, and I live in Tampa, FL! I'm interested in technology, like AI, operating systems, etc.! I'm currently working on Noctis, a personal AI chat assistant powered by a local Hermes model, built with Node.js + Express, focused primarily on educaction features!
+✌🏼 Hey there! My name is Ritvik Gautam, and I live in Tampa, FL! I'm interested in technology, like AI, operating systems, etc.! I'm currently working on Noctis, a personal AI chat assistant powered by a local Hermes model, built with Node.js + Express, focused primarily on educaction features!
+
 - Here's the link to SupeNux if you want to check it out! https://www.github.com/gautamritvik/SupeNux
 - Here's the link to the Curl Programming Language if you want to check it out! https://www.github.com/gautamritvik/Curl-Programming
 - Here's the link to the source code that belongs to a list of MFOSS in Borealis' hands if you want to check it out! https://github.com/gautamritvik/Borealis-Software-Source-Code
+
+Here are some things that I've done/updates about them:
+
 - **BIG CURL UPDATE**: Curl is now officially in production! Curl is a lightweight (for now hehe 😈) programming language with medium complex syntax that can do basic functions, but is intended to have built-in AI functions and code blocks with other programming languages (languages targeted to be supported on Curl: Python, JavaScript, Java, C, C++, and (maybe) Node.js). It was made with Python 3.13 on a Windows Surface Pro 7 (tablet-laptop). Go to https://www.github.com/gautamritvik/Curl-Programming. Please support Curl, thanks!
 - **HUGE SUPENUX UPDATE**: SupeNux is now officially available!!! It is a Raspberry Pi distro, and it works on the SD card port on the bottom of a Raspberry Pi. It only works on the terminal as of right now, but I'm trying to make some GUI for the operating system so it can display it's first screen pointer! Go to https://github.com/gautamritvik/SupeNux/blob/main/SupeNux-Raspberry-Pi.md to get the .img file and it also has further instructions to put it on a physical SD card. Please support SupeNux, thanks!
 - **🦉 Noctis — by ☾ Ecliptic AI (CURRENTLY IN PRODUCTION — repository will be publicly posted once it is ready for it's public debut)**:
 A personal AI chat assistant powered by a local Hermes model, built with Node.js + Express.
 Integrates with **Canvas LMS** (grades, calendar, event creation) and **Google Calendar**,
 with three modes: Chat, Code, and Educate — featuring flashcards, Jeopardy review games, and file generation. It also saves users' settings/APIs on an online database in Supabase securely and safely. I will post it's repository soon!
+
+Stay tuned, as great things will be coming! 🤙
