@@ -1,6 +1,6 @@
 (Sorry! I may be inactive for quite a while- school's been the main reason. Just know that I haven't mysteriously been taken away by aliens or I have lost interest in coding!)
 
-- ✌🏼 Hey there! My name is Ritvik Gautam, and I live in Tampa, FL! I'm interested in technology, like AI, operating systems, etc.! I'm currently working on SupeNux, an OS made on Linux technology, and Curl, a programming language that mainly uses curly ({}) brackets made on Python technology!
+- ✌🏼 Hey there! My name is Ritvik Gautam, and I live in Tampa, FL! I'm interested in technology, like AI, operating systems, etc.! I'm currently working on Noctis, a personal AI chat assistant powered by a local Hermes model, built with Node.js + Express, focused primarily on educaction features!
 - Here's the link to SupeNux if you want to check it out! https://www.github.com/gautamritvik/SupeNux
 - Here's the link to the Curl Programming Language if you want to check it out! https://www.github.com/gautamritvik/Curl-Programming
 - Here's the link to the source code that belongs to a list of MFOSS in Borealis' hands if you want to check it out! https://github.com/gautamritvik/Borealis-Software-Source-Code
