@@ -15,4 +15,4 @@ A personal AI chat assistant powered by a local Hermes model, built with Node.js
 Integrates with **Canvas LMS** (grades, calendar, event creation) and **Google Calendar**,
 with three modes: Chat, Code, and Educate — featuring flashcards, Jeopardy review games, and file generation. It also saves users' settings/APIs on an online database in Supabase securely and safely. I will post it's repository soon!
 
-Stay tuned, as great things will be coming! 🤙
+🤙🏼 Stay tuned, as great things will be coming!
